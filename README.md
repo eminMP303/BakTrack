@@ -28,6 +28,8 @@ Finally, as you can see, I’m really good at drawing and made a beautiful icon 
 
 Hope this helps, and good grinding!
 
+(to install go to release and take the latest, not the zip file because it's just what you are reading now)
+
 Copyright (c) 2026 EminMP3
 
 All rights reserved.
