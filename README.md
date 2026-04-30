@@ -9,20 +9,20 @@ It includes:
 
 ON THE PANEL:
 
-Number of MMR, wins, losses, and games played
-Two buttons: Win and Loss, which you can click after each game
-A Reset button to reset all variables
-An Export button to save your stats as a .json file (not fully tested, but it does create a file)
-A profile system with two buttons: New Profile and Change Profile. You can also see your profile name displayed above
+- Number of MMR, wins, losses, and games played
+- Two buttons: Win and Loss, which you can click after each game
+- A Reset button to reset all variables
+- An Export button to save your stats as a .json file (not fully tested, but it does create a file)
+- A profile system with two buttons: New Profile and Change Profile. You can also see your profile name displayed above
 
 SETTINGS:
 
-Change background color
-MMR gain adjustment with a slider between 0 and 20
-Manual MMR adjustment (you can add or subtract as much as you want)
-Font options
-Rename profile
-A button color category: select which button you want to customize, click Apply Selected Color, then choose your color
+- Change background color
+- MMR gain adjustment with a slider between 0 and 20
+- Manual MMR adjustment (you can add or subtract as much as you want)
+- Font options
+- Rename profile
+- A button color category: select which button you want to customize, click Apply Selected Color, then choose your color
 
 Finally, as you can see, I’m really good at drawing and made a beautiful icon (the only thing I actually did alone without ChatGPT, so enjoy).
 
